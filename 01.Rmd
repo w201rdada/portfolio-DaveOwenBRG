@@ -1,7 +1,5 @@
 # TA-BO app to help you decide between tap or bottled water
 
-#### Keywords
-
 water, bottled water, tap water, drink, health, safety, water quality, environment, hydrate 
 
 ## Information to better help you decide
