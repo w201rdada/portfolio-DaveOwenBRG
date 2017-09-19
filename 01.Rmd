@@ -1,24 +1,25 @@
-# My first cool idea {#slug-one}
+# TA-BO app to help you decide between tap or bottled water
 
 #### Keywords
 
-yaba, daba, do
+water, bottled water, tap water, drink, health, safety, water quality, environment, hydrate 
 
-## A beginning.
+## Information to better help you decide
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+Do you have anxiety over the safety of the water you drink? Do pay for bottle water under the assumption that it is safer to drink than your tap water? Conversely, did you buy a new water bottle to limit the environmental impact of bottled water? 
 
-## A middle.
+Each day we have a handful of choices on how we stay hydrated. Those choices feed big business – both consequential for our utilities and the beverage industry. According to a global article in The Guardian last year, the bottled water industry is expected to reach $280 billion by 2020. Recent water quality events – such as in Flint, Michigan or disaster areas hit by recent fall hurricanes and consumers are increasingly questioning what’s in their bottle. Your decision is important - and should be founded on clear information rather than advertising.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+## Real-time, for your location, for you!
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+The confusion by the consumer isn’t needed. Gathering data from a vast network of water sampling stations across the US Geology Survey and the EPA, we’ve collected live sampling results to illustrate historical safety, likely current safety, and predictive safety of tap water in your area. Safety is considered against water quality parameters – for example, iron, mercury, organics material, or presence of other dangerous contaminants. These contaminants are compared against public safety thresholds, both as individual elements and in aggregate. On online and phone app helps communicate relative performance of local tap against selected brands of bottled water to help inform the consumer.
 
-## An end.
+As each individual is unique – a behavior profile is created in the app to help weigh the decision making. Risk relates differently to different people. For example, healthy and active consumers may have a different risk threshold than consumers that have allergies or pre-existing conditions. Consumers who drink three glasses on average per day may have a different risk profile than someone who drinks eight glasses per day. A short biographic survey in the app and website helps cater the risk and recommendation feedback from the tool.
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+
+## Better water decisions 
+
+The tool provides a streamlined, real-time, and unbiased comparison of tap vs. bottle water. The interface simply conveys contaminant information and helps compare relative quality of water received. Additionally, the app illustrates the carbon footprint comparison of the tap vs. bottle option. Given the ease of use of the app and the consumption of bottled water last year (480 billion bottles according the sourced Guardian article), the app is expected to influence decision making for millions of consumers. While the belief is that consumers will change their behavior in many cases – switching from tap to bottle and vice-versa – the tool will build confidence in the consumer decision making. 
+
+Source: https://www.theguardian.com/business/2016/oct/06/liquid-assets-how--business-bottled-water-went-mad
