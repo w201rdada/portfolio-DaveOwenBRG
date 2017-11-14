@@ -4,29 +4,29 @@ water, bottled water, tap water, drink, health, safety, water quality, environme
 
 ## Good decisions on fair and accurate information
 
-Each day we have a handful of choices on how we stay hydrated. Those choices feed big business – both consequential for our utilities and the beverage industry. According to a global article in The Guardian last year, the bottled water industry is expected to reach $280 billion by 2020. We drink a lot of water. 
+Each day Americans (humans?) have a handful of choices on how we stay hydrated. Those choices feed big business – consequential for both our utilities and the beverage industry. According to an article in The Guardian last year, the bottled water industry globally is expected to reach $280 billion by 2020. We drink a lot of water. 
 
-How safe is the water you drink? Recent water quality events – such as in Flint, Michigan or areas hit by recent hurricanes bring water quality and safety into focus for a number of consumers. Additionally, insights into the harm of BPA (bisphenol A – an estrogen-mimicking chemical) have led to questions of the safety of water bottles. 
+However, how safe is the water you drink? Recent water quality events – such as in Flint, Michigan or areas hit by recent hurricanes bring water quality and safety into focus for a number of consumers. Additionally, insights into the harm of BPA (bisphenol A – an estrogen-mimicking chemical) have led to questions about the safety of water bottles. 
 
 Your decision is important - and should be founded on clear information rather than advertising.
 
 ## Real-time, for your location, for you!
 
-The confusion by the consumer isn’t needed. Gathering data from a vast network of water sampling stations across the US Geology Survey and the EPA, we’ve collected live sampling results to let you know the true safety of the tap water in your area. 
+The confusion by the consumer isn’t needed. Gathering data from a vast network of water sampling stations across the US Geology Survey and the EPA, the WaterApp team has collected live sampling results to let you know the true safety of the tap water in your area. 
 
-Because you have options, we help you compare your water options based on safety, taste, and environmental impact. Our online and phone app helps communicate relative performance of local tap against selected brands of bottled water to help inform the consumer. 
+Because you have options, we help you compare your water options based on safety, taste, and environmental impact. Our online and phone app communicate the relative performance of your local tap against selected brands of bottled water. 
 
 ### Safety: 
-Tap measurements are compared to bottle samples for content – with drill down into historical data and predicted values for contaminants - for example, iron, mercury, organics material, or presence of other dangerous contaminants. These contaminants are compared against public safety thresholds, both as individual elements and in aggregate.
+Tap measurements are compared to bottle samples for content – with the option to drill down into historical data - and predicted values for contaminants (for example, iron, mercury, organics material, or other dangerous contaminants). These contaminants are compared against public safety thresholds, both as individual elements and in aggregate.
 
 ### Environmental Impact:
-Additionally, measures of environmental impact of both tap and bottled are presented using a life cycle assessment method to provide a standard definition of environmental impact. This measure will tell you how much better or worse your drinking choice is for the environment.
+Additionally, measures of the environmental impact of both tap and bottled are presented using a life cycle assessment method to provide a standard definition of environmental impact. This measure will tell you how much better or worse your drinking choice is for the environment.
 
 ### Taste:
-Using measures of contaminants that impact taste – e.g. chlorine, metallic, earthy flavors – are compared to help you understand the flavor profile of your water.
+Measures of contaminants that impact taste – e.g. chlorine, metallic, earthy flavors – are compared to help you understand the flavor profile of your water.
 
 ## Better water decisions 
 
-The tool provides a streamlined, real-time, and unbiased comparison of tap vs. bottle water. The interface simply conveys contaminant information and helps compare relative quality of water received. Additionally, the app illustrates the carbon footprint comparison of the tap vs. bottle option. Given the ease of use of the app and the consumption of bottled water last year (480 billion bottles according the sourced Guardian article), the app is expected to influence decision making for millions of consumers. While the belief is that consumers will change their behavior in many cases – switching from tap to bottle and vice-versa – the tool will build confidence in the consumer decision making. 
+The WaterApp tool provides a streamlined, real-time, and unbiased comparison of tap vs. bottle water. The interface simply conveys contaminant information and helps compare the relative quality of water received. Additionally, the app illustrates the carbon footprint comparison of the tap vs. bottle option. Given the ease of use of the app and the consumption of bottled water last year (480 billion bottles according the sourced Guardian article), WaterApp is expected to influence decision making for millions of consumers. While the belief is that consumers will change their behavior in many cases – switching from tap to bottle and vice-versa – the tool will build consumer confidence in their own decision-making. 
 
 Source: https://www.theguardian.com/business/2016/oct/06/liquid-assets-how--business-bottled-water-went-mad
