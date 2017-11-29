@@ -1,4 +1,4 @@
-# TAP-or-BOTTLE app to help you decide between tap or bottled water
+# {HYD8 Water to Go}
 
 water, bottled water, tap water, drink, health, safety, water quality, environment, hydrate 
 
