@@ -12,32 +12,44 @@ library(magrittr)
 ```
 
 
-# Welcome! {-}
+# Great Ideas Need a Place to Grow
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/hello-world.png')
+```{r hello-world,echo=FALSE,fig.cap='Can we change the way people think about water?',fig.align='center',out.width='50%'}
+knitr::include_graphics('Water7-300x244.jpeg')
 ```
 
-Pariatur sapiente anim  waistcoat bicycle rights.  Cupidatat  chambray portland direct trade, XOXO odio gochujang banjo deep v sustainable.  Sint  jianbing DIY humblebrag heirloom exercitation ennui fanny pack.  Dolore small batch lomo, godard slow-carb odio exercitation organic cred cray la croix vinyl nisi hot chicken.  Gentrify schlitz stumptown fam, cray hoodie excepteur  hammock kinfolk 8-bit hell of plaid.  Helvetica hashtag pinterest typewriter, tbh vape vero farm-to-table.  Laboris  bitters aliqua small batch.
+This semester saw more twists and turns that I expected. I'll admit, some technical reading that pulled apart quarks in an atom. Others, well, I didn't expect that plane to land on cartoon wheels. In all, this superseded expectations. Great classmates, great conversation, great thinking, and great fun. Looking forward to continuing with you all on this journey. And am looking forward to a wonderful conclusion to this course. 
+
+I hope to work with you on my project!
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
+```{r hello-benji,echo=FALSE,fig.cap='Don't Hesitate - Vote HYD8!',fig.align='center'}
 knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### Abstract of my first cool idea
+### HYD8 - Water to Go
 
-Pop-up occupy labore, pug tofu nisi franzen YOLO tilde tumblr deep v nulla  aliqua.  Sapiente stumptown et lo-fi art party.  Eu  snackwave glossier, poutine crucifix tattooed labore thundercats hexagon tempor brunch single-origin coffee synth four loko.  Velit  beard ex etsy migas, tempor hashtag.  Live-edge fap yr food truck, heirloom snackwave tempor laborum green juice man bun selvage sriracha gastropub.  Before they sold out incididunt godard cupidatat  exercitation street art health goth ullamco, flannel dolore kombucha bespoke.  Pok pok tilde mixtape, magna swag iceland tote bag gentrify dolor  delectus.
+I'm really excited about this idea. Despite public water sampling across the country, there is no easy way for individuals to tell the quality of their tap water. This uncertainty leads many to buy expensive bottled water that may or may not be better quality. What if we could help bring data together to inform users to make better decisions? What if that information helped consumers in places like Flint or Houston know water wasn't safe? Or consumers in NYC to know their tap water is better than what's in the bottle? Small changes could impact health and environment alike.
 
-### Abstract of my second cool idea
+I think it's possible and probable that this idea gains traction outside of this course. I'd love to join with you to help see how we together expand this idea and see if it can take root into something real!
 
-Vero dolor  franzen letterpress.  Taxidermy pork belly messenger bag, deserunt  aliqua irure  photo booth neutra banh mi fanny pack.  Butcher fam heirloom marfa.  Tilde reprehenderit  snackwave tempor.  Qui  pop-up kitsch dolor.  Crucifix consectetur culpa  lumbersexual salvia exercitation small batch.  Pop-up duis  id  semiotics before they sold out kombucha raclette, twee selvage pitchfork.
-  
+### Campaign Chemistry
 
-## About the author {-}
+My wife is a fashion agent – meaning she helps models, photographers, and clients (think Vogue or Target) create campaigns for their new products. This process of matching ideas, looks, and people to make something impactful in the market rests nearly entirely on gut instinct of a few people.
 
-Sustainable aute  gochujang, messenger bag vero dolor  blog pork belly knausgaard.  Tacos brooklyn lumbersexual keytar, literally chambray iceland street art pickled master cleanse in  roof party activated charcoal jean shorts craft beer.  Semiotics tempor enamel pin nesciunt, aliquip live-edge keytar yr street art waistcoat cray everyday carry eu  sint  pariatur.  Aliquip anim  godard leggings, flexitarian direct trade  humblebrag.  Non  ennui fashion axe nesciunt, poke af kinfolk direct trade  franzen banh mi.  Craft beer laborum crucifix pork belly retro, health goth tacos est  godard four dollar toast tousled bushwick exercitation nihil normcore.  Semiotics meggings pok pok church-key whatever art party, truffaut franzen poke.
+This idea stems around pulling data such as trends in fashion data, success of product and photographer, and social network reach of the models to help give a possible influence score of the mix of inputs. This score would help designers or art directors make informed decisions on which teams to pair on projects. 
+
+Who knows – this idea and your help could end up on a billboard in Times Square!?!
+ 
+## About the author {Dave Owen}
+
+Dave is a strategy and finance consultant at a boutique consulting firm called Berkeley Research Group. An apt name – BRG was founded by Professor David Teece in the Haas School of Business. 
+
+Dave focuses on leading organizations through critical transformations — helping create sustainable inflection points that launch a new trajectory for teams and companies. He has 15 years of experience working in a variety of industries and international geographies. 
+
+He grew up in Colorado and is an avid fly fisherman (hence the interest in clean water). He went to Cornell University to gain his undergraduate degree in engineering and attended NYU for business school. Dave has been fortunate to have lived Milan, Munich, and Vancouver as an adult. He currently lives in Brooklyn with his wife Winter and dog Sage.
+
 
 *Updated: `r Sys.Date()`*
