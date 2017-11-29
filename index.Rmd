@@ -14,11 +14,6 @@ library(magrittr)
 
 # Great Ideas Need a Place to Grow
 
-<!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Can we change the way people think about water?',fig.align='center',out.width='50%'}
-knitr::include_graphics('Water7-300x244.jpeg')
-```
-
 This semester saw more twists and turns that I expected. I'll admit, some technical reading that pulled apart quarks in an atom. Others, well, I didn't expect that plane to land on cartoon wheels. In all, this superseded expectations. Great classmates, great conversation, great thinking, and great fun. Looking forward to continuing with you all on this journey. And am looking forward to a wonderful conclusion to this course. 
 
 I hope to work with you on my project!
@@ -30,6 +25,11 @@ knitr::include_url('https://drive.google.com/a/berkeley.edu/file/d/1PNiz07Vw756C
 ```
 
 ### HYD8 - Water to Go
+
+<!-- You can include images saved within your repo... -->
+```{r hello-world,echo=FALSE,fig.cap='Can we change the way people think about water?',fig.align='center',out.width='50%'}
+knitr::include_graphics('Water7-300x244.jpeg')
+```
 
 I'm really excited about this idea. Despite public water sampling across the country, there is no easy way for individuals to tell the quality of their tap water. This uncertainty leads many to buy expensive bottled water that may or may not be better quality. What if we could help bring data together to inform users to make better decisions? What if that information helped consumers in places like Flint or Houston know water wasn't safe? Or consumers in NYC to know their tap water is better than what's in the bottle? Small changes could impact health and environment alike.
 
