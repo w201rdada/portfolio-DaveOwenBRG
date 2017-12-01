@@ -23,7 +23,7 @@ If you can't see my video below - check it out here, at Vimeo: https://vimeo.com
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
 ```{r hello-benji,echo=FALSE,fig.cap='Dont Hesitate - Vote HYD8!',fig.align='center'}
-knitr::include_url('https://drive.google.com/a/berkeley.edu/file/d/1PNiz07Vw756Cj1WYqOVmf67wtm2TdBRh/preview')
+knitr::include_url('https://player.vimeo.com/video/245187075')
 ```
 
 ### HYD8 - Water to Go
