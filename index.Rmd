@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# {-} Great Ideas Need a Place to Grow
+# Great Ideas Need a Place to Grow {-}
 
 This semester saw more twists and turns that I expected. I'll admit, some technical reading that pulled apart quarks in an atom. Others, well, I didn't expect that plane to land on cartoon wheels. In all, this superseded expectations. Great classmates, great conversation, great thinking, and great fun. Looking forward to continuing with you all on this journey. And am looking forward to a wonderful conclusion to this course. 
 
@@ -45,7 +45,7 @@ This idea stems around pulling data such as trends in fashion data, success of p
 
 Who knows – this idea and your help could end up on a billboard in Times Square!?!
  
-## About the author - Dave Owen
+## About the author - Dave Owen {-}
 
 Dave is a strategy and finance consultant at a boutique consulting firm called Berkeley Research Group. An apt name – BRG was founded by Professor David Teece in the Haas School of Business. 
 
