@@ -26,7 +26,7 @@ If you can't see my video below - check it out here, at Vimeo: https://vimeo.com
 knitr::include_url('https://player.vimeo.com/video/245187075')
 ```
 
-### HYD8 - Water to Go
+### HYD8 - Water to Go {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Can we change the way people think about water?',fig.align='center',out.width='50%'}
@@ -37,7 +37,7 @@ I'm really excited about this idea. Despite public water sampling across the cou
 
 I think it's possible and probable that this idea gains traction outside of this course. I'd love to join with you to help see how we together expand this idea and see if it can take root into something real!
 
-### Campaign Chemistry
+### Campaign Chemistry {-}
 
 My wife is a fashion agent – meaning she helps models, photographers, and clients (think Vogue or Target) create campaigns for their new products. This process of matching ideas, looks, and people to make something impactful in the market rests nearly entirely on gut instinct of a few people.
 
